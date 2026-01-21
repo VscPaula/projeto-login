@@ -38,6 +38,8 @@
     border-radius: 20px;
     box-shadow: 0 px 0 px 10px rgba(0, 0, 0, 0.455);
 
+   transition: width .3s, height .3s;
+   transition-timing-function: ease;
  }
 
  section#login > div#imagem {
